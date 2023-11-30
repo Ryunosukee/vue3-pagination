@@ -1,7 +1,7 @@
 {
   "name": "@dcorrea-estrav/vue3-pagination",
   "description": "VueJS 3 pagination component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "pagination",
     "vuejs3",
