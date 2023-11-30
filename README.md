@@ -13,18 +13,18 @@ Simple, generic and non-intrusive pagination component for Vue.js version 3.
     - [Custom Template](#custom-template)
 # Dependencies
 
-* Vue.js (>=3.0.0). Required.
-* CSS: Bootstrap 3 or Bootstrap 4 or Bulma or a custom theme.
+* Vue.js (>=3.3.0). Required.
+* CSS: Tailwind.
 
 # Installation
 
 ## NPM
 
-    npm install v-pagination-3
+    npm i @dcorrea-estrav/vue3-pagination
 
 import the script:
 
-    import Pagination from 'v-pagination-3';
+    import Pagination from 'vue3-pagination';
 
 ## Script tag
 
